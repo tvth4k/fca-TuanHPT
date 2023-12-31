@@ -1,5 +1,5 @@
 {
-  "name": "fca-tuanHPT",
+  "name": "fca-tuanhpt",
   "version": "1.1.18",
   "description": "",
   "main": "index.js",
@@ -11,7 +11,7 @@
   "bugs": {
     "url": "https://github.com/tvth4k/fca-TuanHPT/issues"
   },
-  "homepage": "https://github.com/tvth4k/fca-TuanHPT",
+  "homepage": "https://github.com/tvth4k/fca-TuanHPT#readme",
   "repository": {
     "type": "git",
     "url": "git://github.com/tvth4k/fca-TuanHPT.git"
@@ -21,7 +21,7 @@
     "ansi-to-html": "latest",
     "assert": "latest",
     "axios": "^1.5.0",
-    "better-sqlite3": "7.6.2",
+    "better-sqlite3": "latest",
     "bluebird": "latest",
     "chalk": "4.1.2",
     "cheerio": "latest",
