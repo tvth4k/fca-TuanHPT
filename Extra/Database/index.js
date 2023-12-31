@@ -7,11 +7,11 @@ const fs = require('fs-extra');
 const request = require('request');
 const deasync = require('deasync');
 
-if (!fs.existsSync(process.cwd() + '/Tuantvtdz_Database')) {
-    fs.mkdirSync(process.cwd() + '/Tuantvtdz_Database');
-    fs.writeFileSync(process.cwd() + '/Tuantvtdz_Database/A_README.md', 'Do not delete this folder or any of the files in it.', 'utf8');
+if (!fs.existsSync(process.cwd() + '/TuanHPT_Database')) {
+    fs.mkdirSync(process.cwd() + '/TuanHPT_Database');
+    fs.writeFileSync(process.cwd() + '/TuanHPT_Database/A_README.md', 'Do not delete this folder or any of the files in it.', 'utf8');
 }
-var db = new BetterDB(process.cwd() + "/Tuantvtdz_Database/SyntheticDatabase.sqlite");
+var db = new BetterDB(process.cwd() + "/TuanHPT_Database/SyntheticDatabase.sqlite");
 
 function Lset(key, value) {
     if (!key)
