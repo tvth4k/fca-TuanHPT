@@ -9,7 +9,7 @@ const deasync = require('deasync');
 
 if (!fs.existsSync(process.cwd() + '/Tuantvtdz_Database')) {
     fs.mkdirSync(process.cwd() + '/Tuantvtdz_Database');
-    fs.writeFileSync(process.cwd() + '/Tuantvtdz_Database/A_README.md', 'This folder is used by ChernobyL(NANI =)) ) to store data. Do not delete this folder or any of the files in it.', 'utf8');
+    fs.writeFileSync(process.cwd() + '/Tuantvtdz_Database/A_README.md', 'Do not delete this folder or any of the files in it.', 'utf8');
 }
 var db = new BetterDB(process.cwd() + "/Tuantvtdz_Database/SyntheticDatabase.sqlite");
 
