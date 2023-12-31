@@ -28,7 +28,7 @@ global.Fca = new Object({
             "AutoUpdate": false,
             "CustomFont": true,
             "MainColor": "#FFFF00",
-            "MainName": "[ FCA-PROJECT-ORION ]",
+            "MainName": "[ FCA-Tuân đẹp trai nhất thế giới ]",
             "Uptime": false,
             "Config": "default",
             "DevMode": false,
