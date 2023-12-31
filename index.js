@@ -28,7 +28,7 @@ global.Fca = new Object({
             "AutoUpdate": false,
             "CustomFont": true,
             "MainColor": "#FFFF00",
-            "MainName": "[ FCA-Tuân đẹp trai nhất thế giới ]",
+            "MainName": "[ FCA-Tuân đz]",
             "Uptime": false,
             "Config": "default",
             "DevMode": false,

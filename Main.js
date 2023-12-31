@@ -818,7 +818,9 @@ function loginHelper(appState, email, password, globalOptions, callback, prCallb
 
 try {
     if (appState) {
-    console.log(gradient('orange', 'yellow').multiline(["🅣🅤🅐🅝🅣🅥🅣",].join('\n')));
+    console.log(gradient('pink', 'aqua').multiline(["▀█▀ █░█ ▄▀█ █▄░█ ▀█▀ █░█ ▀█▀░",
+    "░█░ █▄█ █▀█ █░▀█ ░█░ ▀▄▀ ░█░"
+].join('\n')));
     console.log();
         logger.Normal(Language.OnProcess);
             switch (Database().has("FBKEY")) {
@@ -1006,7 +1008,9 @@ function setUserNameAndPassWord() {
     });
 
     console.clear();
-    console.log(gradient('orange', 'yellow').multiline(["🅣🅤🅐🅝🅣🅥🅣",].join('\n')));
+    console.log(gradient('pink', 'aqua').multiline(["▀█▀ █░█ ▄▀█ █▄░█ ▀█▀ █░█ ▀█▀░",
+    "░█░ █▄█ █▀█ █░▀█ ░█░ ▀▄▀ ░█░"
+].join('\n')));
     console.log();
     console.log(gradient("orange","yellow",)('[ fca-tuanhpt ] > Operating System: ') + (os.type()));
     console.log(gradient("orange","yellow",)('[ fca-tuanhpt ] > Machine Version: ') + (os.version()));
