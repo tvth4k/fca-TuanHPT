@@ -9,12 +9,12 @@
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ivancotacte/fca-project-orion/issues"
+    "url": "https://github.com/tvth4k/fca-TuanHPT/issues"
   },
-  "homepage": "https://github.com/ivancotacte/fca-project-orion#readme",
+  "homepage": "https://github.com/tvth4k/fca-TuanHPT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/ivancotacte/fca-project-orion.git"
+    "url": "git://github.com/tvth4k/fca-TuanHPT.git"
   },
   "dependencies": {
     "aes-js": "latest",
