@@ -9,12 +9,12 @@
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/KanzuXHorizon/Fca-Horizon-Remastered/issues"
+    "url": "https://github.com/ivancotacte/fca-project-orion/issues"
   },
-  "homepage": "",
+  "homepage": "https://github.com/ivancotacte/fca-project-orion#readme",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git://github.com/ivancotacte/fca-project-orion.git"
   },
   "dependencies": {
     "aes-js": "latest",
